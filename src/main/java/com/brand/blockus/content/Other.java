@@ -18,7 +18,6 @@ public class Other {
 	
 	public static final NetherStarsBlock NETHER_STARS_BLOCK = new NetherStarsBlock("nether_stars_block", 5.0f, 6.0f);
 	public static final BlockBaseBT STARS_BLOCK = new BlockBaseBT("stars_block", 5.0f, 6.0f, Material.STONE, BlockSoundGroup.STONE, Blockus.BLOCKUS_BUILDING_BLOCKS, FabricToolTags.PICKAXES, 1, MaterialColor.BLACK);
-	public static final BlockBaseBT ENDER_BLOCK = new BlockBaseBT("ender_block", 5.0f, 6.0f, Material.STONE, BlockSoundGroup.STONE, Blockus.BLOCKUS_BUILDING_BLOCKS, FabricToolTags.PICKAXES, 1, MaterialColor.GREEN_TERRACOTTA);
 	public static final LoveBlock LOVE_BLOCK = new LoveBlock("love_block", 2f, 6.0f);
 	public static final WoodenPaneBase WOODEN_FRAME = new WoodenPaneBase("wooden_frame", 0.1f, 0.8f, Material.WOOD, BlockSoundGroup.WOOD);
 	public static final BlockBaseHand MEMBRANE_BLOCK = new BlockBaseHand("membrane_block", 1.5f, 1.5f, Material.SOLID_ORGANIC, BlockSoundGroup.SLIME, Blockus.BLOCKUS_BUILDING_BLOCKS, MaterialColor.WHITE_TERRACOTTA);
