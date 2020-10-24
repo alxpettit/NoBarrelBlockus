@@ -37,7 +37,6 @@
 	"block.blockus.paper_trapdoor": "Paper Trapdoor",
 	
 	"block.blockus.stars_block": "Stars Block",
-	"block.blockus.ender_block": "Ender Block",
 	"block.blockus.rotten_flesh_block": "Rotten Flesh Block",
 	"block.blockus.sugar_block": "Sugar Block",
 	
@@ -125,13 +124,6 @@
 	
 	"block.blockus.stone_door": "Stone Door",
 	"block.blockus.stone_trapdoor": "Stone Trapdoor",
-	"block.blockus.oak_barrel": "Oak Barrel",
-    "block.minecraft.barrel": "Spruce Barrel",
-	"block.blockus.birch_barrel": "Birch Barrel",
-	"block.blockus.jungle_barrel": "Jungle Barrel",
-	"block.blockus.acacia_barrel": "Acacia Barrel",
-	"block.blockus.dark_oak_barrel": "Dark Oak Barrel",
-	"block.blockus.bamboo_barrel": "Bamboo Barrel",
 	"block.blockus.love_block": "Love Block §4<3",
 	"block.blockus.purpur_bricks": "Purpur Bricks",
 	"block.blockus.smooth_purpur": "Smooth Purpur",
@@ -452,7 +444,6 @@
 	"block.blockus.charred_fence": "Charred Fence",
 	"block.blockus.charred_fence_gate": "Charred Fence Gate",
 	"block.blockus.charred_trapdoor": "Charred Wooden Trapdoor",
-	"block.blockus.charred_barrel": "Charred Barrel",
 	
 	"block.blockus.white_futurneo_block": "White Futurneo Block",
 	"block.blockus.orange_futurneo_block": "Orange Futurneo Block",
@@ -496,7 +487,6 @@
 	"block.blockus.white_oak_sapling": "White Oak Sapling",
 	"block.blockus.potted_white_oak_sapling": "Potted White Oak Sapling",
 	"block.blockus.white_oak_small_hedge": "White Oak Small Hedge",
-	"block.blockus.white_oak_barrel": "White Oak Barrel",
 	
 	"block.blockus.lantern_block": "Lantern Block",
 	
@@ -560,8 +550,6 @@
 	"block.blockus.zigzagged_teal_nether_bricks": "Zigzagged Teal Nether Bricks",
 	"block.blockus.zigzagged_polished_blackstone": "Zigzagged Polished Blackstone",
 	
-	"block.blockus.crimson_barrel": "Crimson Barrel",
-	"block.blockus.warped_barrel": "Warped Barrel",
 	
     "block.blockus.polished_blackstone_pillar": "Polished Blackstone Pillar",
 	"block.blockus.polished_blackstone_circle_pavement": "Polished Blackstone Circle Pavement",

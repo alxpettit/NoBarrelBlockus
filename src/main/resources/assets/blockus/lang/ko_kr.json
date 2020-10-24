@@ -19,7 +19,6 @@
 	"block.blockus.paper_door": "종이 문",
 	"block.blockus.paper_trapdoor": "종이 다락문",
 	"block.blockus.stars_block": "별 블록",
-	"block.blockus.ender_block": "엔더 블록",
 	"block.blockus.rotten_flesh_block": "썩은 살점 블록",
 	"block.blockus.smooth_stone_stairs": "매끄러운 돌 계단",
 	"block.blockus.stone_bricks_pillar": "석재 벽돌 기둥",
@@ -96,13 +95,6 @@
 	
 	"block.blockus.stone_door": "돌 문",
 	"block.blockus.stone_trapdoor": "돌 다락문",
-	"block.blockus.oak_barrel": "참나무 통",
-    "block.minecraft.barrel": "가문비나무 통",
-	"block.blockus.birch_barrel": "자작나무 통",
-	"block.blockus.jungle_barrel": "정글 나무 통",
-	"block.blockus.acacia_barrel": "아카시아나무 통",
-	"block.blockus.dark_oak_barrel": "짙은 참나무 통",
-	"block.blockus.bamboo_barrel": "대나무 통",
 	"block.blockus.love_block": "사랑 블록 §4<3",
 	"block.blockus.purpur_bricks": "퍼퍼 벽돌",
 	"block.blockus.smooth_purpur": "매끄러운 퍼퍼",
@@ -410,7 +402,6 @@
 	"block.blockus.charred_fence": "탄화 울타리",
 	"block.blockus.charred_fence_gate": "탄화 울타리 문",
 	"block.blockus.charred_trapdoor": "탄화 목재 다락문",
-	"block.blockus.charred_barrel": "탄화 통",
 	
 	"block.blockus.white_futurneo_block": "하얀색 푸투네오 블록",
 	"block.blockus.orange_futurneo_block": "주황색 푸투네오 블록",
@@ -453,7 +444,6 @@
 	"block.blockus.white_oak_sapling": "흰 참나무 묘목",
 	"block.blockus.potted_white_oak_sapling": "화분에 심은 흰 참나무 묘목",
 	"block.blockus.white_oak_small_hedge": "흰 참나무 작은 울타리",
-	"block.blockus.white_oak_barrel": "흰 참나무 통",
 	
 	"block.blockus.lantern_block": "랜턴 블록",
 	
@@ -498,8 +488,6 @@
 	"block.blockus.zigzagged_teal_nether_bricks": "지그재그로 된 청록색 네더 벽돌",
 	"block.blockus.zigzagged_polished_blackstone": "지그재그로 된 윤나는 흑암",
 	
-	"block.blockus.crimson_barrel": "진홍빛 통",
-	"block.blockus.warped_barrel": "뒤틀린 통",
 	
     "block.blockus.polished_blackstone_pillar": "윤나는 흑암 기둥",
 	

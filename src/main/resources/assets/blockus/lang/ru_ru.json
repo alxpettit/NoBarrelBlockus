@@ -28,7 +28,6 @@
 	"block.blockus.paper_door": "Бумажная дверь",
 	"block.blockus.paper_trapdoor": "Бумажный люк",
 	"block.blockus.stars_block": "Звездный блок",
-	"block.blockus.ender_block": "Эндер блок",
 	"block.blockus.rotten_flesh_block": "Блок гнилой плоти",
 	"block.blockus.smooth_stone_stairs": "Гладкая каменная лестница",
 	"block.blockus.stone_bricks_pillar": "Каменно-кирпичный столб",
@@ -112,13 +111,6 @@
 
 	"block.blockus.stone_door": "Каменная дверь",
 	"block.blockus.stone_trapdoor": "Каменный люк",
-	"block.blockus.oak_barrel": "Дубовая бочка",
-    "block.minecraft.barrel": "Еловая бочка",
-	"block.blockus.birch_barrel": "Березовая бочка",
-	"block.blockus.jungle_barrel": "Тропическая бока",
-	"block.blockus.acacia_barrel": "Бочка из акации",
-	"block.blockus.dark_oak_barrel": "Бочка из темного дуба",
-	"block.blockus.bamboo_barrel": "Бамбуковая бочка",
 	"block.blockus.love_block": "Любовный блок §4♥",
 	"block.blockus.purpur_bricks": "Пурпурные кирпичи",
 	"block.blockus.smooth_purpur": "Гладкий пурпурный блок",
@@ -429,7 +421,6 @@
 	"block.blockus.charred_fence": "Обугленный забор",
 	"block.blockus.charred_fence_gate": "Обугленные ворота",
 	"block.blockus.charred_trapdoor": "Обугленный люк",
-	"block.blockus.charred_barrel": "Обугленная бочка",
 
 	"block.blockus.white_futurneo_block": "Белый узорчатый блок",
 	"block.blockus.orange_futurneo_block": "Оранжевый узорчатый блок",
@@ -473,7 +464,6 @@
 	"block.blockus.white_oak_sapling": "Саженец белого дуба",
 	"block.blockus.potted_white_oak_sapling": "Саженец белого дуба в горшке",
 	"block.blockus.white_oak_small_hedge": "Забор из белого дуба",
-	"block.blockus.white_oak_barrel": "Бочка из белого дуба",
 
 	"block.blockus.lantern_block": "Блок фонаря",
 
@@ -537,8 +527,6 @@
 	"block.blockus.zigzagged_teal_nether_bricks": "Зигзагообразный сине-зеленый кирпич",
 	"block.blockus.zigzagged_polished_blackstone": "Зигзагообразный полированный черный камень",
 
-	"block.blockus.crimson_barrel": "Малиновая бочка",
-	"block.blockus.warped_barrel": "Искаженная бочка",
 
     "block.blockus.polished_blackstone_pillar": "Полированный столб из черного камня",
 	"block.blockus.polished_blackstone_circle_pavement": "Тротуар из полированного черного камня",

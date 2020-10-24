@@ -37,7 +37,6 @@
 	"block.blockus.paper_trapdoor": "Trappe en papier",
 	
 	"block.blockus.stars_block": "Bloc d'étoiles",
-	"block.blockus.ender_block": "Bloc de l'End",
 	"block.blockus.rotten_flesh_block": "Bloc de chair putréfiée",
 	"block.blockus.sugar_block": "Bloc de sucre",
 	
@@ -124,13 +123,6 @@
     "block.blockus.black_patterned_wool": "Laine noire à motifs",
 	"block.blockus.stone_door": "Porte en pierre",
 	"block.blockus.stone_trapdoor": "Trappe en pierre",
-	"block.blockus.oak_barrel": "Tonneau en chêne",
-	"block.minecraft.barrel": "Tonneau en sapin",
-	"block.blockus.birch_barrel": "Tonneau en bouleau",
-	"block.blockus.jungle_barrel": "Tonneau en acajou",
-	"block.blockus.acacia_barrel": "Tonneau en acacia",
-	"block.blockus.dark_oak_barrel": "Tonneau en chêne noir",
-	"block.blockus.bamboo_barrel": "Tonneau en bambou",
 	"block.blockus.love_block": "Bloc d'amour §4<3",
 	"block.blockus.purpur_bricks": "Briques de Purpur",
 	"block.blockus.smooth_purpur": "Purpur lisse",
@@ -447,7 +439,6 @@
 	"block.blockus.charred_fence": "Barriére carbonisée",
 	"block.blockus.charred_fence_gate": "Portillon carbonisé",
 	"block.blockus.charred_trapdoor": "Trappe en bois carbonisé",
-	"block.blockus.charred_barrel": "Tonneau carbonisé",
 	"block.blockus.white_futurneo_block": "Futurnéo blanc",
 	"block.blockus.orange_futurneo_block": "Futurnéo orange",
 	"block.blockus.magenta_futurneo_block": "Futurnéo magenta",
@@ -490,7 +481,6 @@
     "block.blockus.white_oak_sapling": "Pousse de chêne blanc",
 	"block.blockus.potted_white_oak_sapling": "Pousse de chêne blanc en pot",
 	"block.blockus.white_oak_small_hedge": "Petite haie en chêne blanc",
-	"block.blockus.white_oak_barrel": "Tonneau en chêne blanc",
 	
 	"block.blockus.lantern_block": "Bloc de lanterne",
 	
@@ -554,8 +544,6 @@
 	"block.blockus.zigzagged_teal_nether_bricks": "Briques sarcelles du Nether zigzaguées",
 	"block.blockus.zigzagged_polished_blackstone": "Roche noire polie zigzaguées",
 	
-    "block.blockus.crimson_barrel": "Tonneau carmin",
-	"block.blockus.warped_barrel": "Tonneau déformé",
 	
 	"block.blockus.polished_blackstone_pillar": "Pilier de roche noire polie",
     "block.blockus.polished_blackstone_circle_pavement": "Pavé circulaire en roche noire polie",

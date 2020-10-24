@@ -34,7 +34,6 @@
 	"block.blockus.paper_door": "纸门",
 	"block.blockus.paper_trapdoor": "纸活板门",
 	"block.blockus.stars_block": "星块",
-	"block.blockus.ender_block": "末影块",
 	"block.blockus.rotten_flesh_block": "腐肉块",
 	"block.blockus.sugar_block": "糖块",	
 	
@@ -122,13 +121,6 @@
 	
 	"block.blockus.stone_door": "石门",
 	"block.blockus.stone_trapdoor": "石活板门",
-	"block.blockus.oak_barrel": "橡木桶",
-    "block.minecraft.barrel": "云杉木桶",
-	"block.blockus.birch_barrel": "桦木桶",
-	"block.blockus.jungle_barrel": "丛林木桶",
-	"block.blockus.acacia_barrel": "金合欢木桶",
-	"block.blockus.dark_oak_barrel": "深色橡木桶",
-	"block.blockus.bamboo_barrel": "竹桶",
 	"block.blockus.love_block": "爱心块 §4<3",
 	"block.blockus.purpur_bricks": "紫珀砖",
 	"block.blockus.smooth_purpur_slab": "平滑紫珀台阶",
@@ -441,7 +433,6 @@
 	"block.blockus.charred_fence": "烧焦的栅栏",
 	"block.blockus.charred_fence_gate": "烧焦的栅栏门",
 	"block.blockus.charred_trapdoor": "烧焦的木活板门",
-	"block.blockus.charred_barrel": "烧焦的桶",
 	
 	"block.blockus.white_futurneo_block": "白色卷纹块",
 	"block.blockus.orange_futurneo_block": "橙色卷纹块",
@@ -485,7 +476,6 @@
 	"block.blockus.white_oak_sapling": "白色橡木树苗",
 	"block.blockus.potted_white_oak_sapling": "盆栽：白色橡木树苗",
 	"block.blockus.white_oak_small_hedge": "白色橡木树篱",
-	"block.blockus.white_oak_barrel": "白色橡木桶",
 	
 	"block.blockus.lantern_block": "灯块",
 	
@@ -549,8 +539,6 @@
 	"block.blockus.zigzagged_teal_nether_bricks": "曲折纹蓝绿色下界砖",
 	"block.blockus.zigzagged_polished_blackstone": "曲折纹磨制黑石",
 	
-	"block.blockus.crimson_barrel": "绯红桶",
-	"block.blockus.warped_barrel": "诡异桶",
 	
     "block.blockus.polished_blackstone_pillar": "磨制黑石柱",
 	"block.blockus.polished_blackstone_circle_pavement": "环纹磨制黑石",
