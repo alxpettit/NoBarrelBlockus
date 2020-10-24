@@ -33,7 +33,6 @@ public class Blockus implements ModInitializer, EarlyInitializer {
 		new TimberFrame();
 		new Hedge();
 		new LargeFlowerPots();
-		new Barrels();
 		new GlazedTerracottaPillars();
 		new GlassRelated();
 		new Asphalt();
